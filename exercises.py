@@ -1,3 +1,5 @@
+import numpy as np
+
 # EXERCISES
 # 1. Consider the ergodic Markov chain with transition matrix
 P = np.array([[0.4, 0.3, 0.2, 0.1],
